@@ -1,1 +1,1 @@
-# 100_knock_challenge
+# 100_knocks_challenge
