@@ -37,7 +37,8 @@ df5 <- read.csv("data2.csv", header=T, fileEncoding = "CP932")
 
 
 # 【35】
-# dfのfare列に100を
+# dfのfare列に100を足して、
+# 先頭の5行を表示
 
 
 
